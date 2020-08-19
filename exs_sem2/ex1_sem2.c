@@ -1,5 +1,3 @@
-/* Michael Vinicius da Silva Izidoro  RA: 120.877 */
-
 #include <stdio.h>
 #include <stdlib.h>
 
